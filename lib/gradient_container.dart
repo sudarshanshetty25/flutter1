@@ -23,7 +23,7 @@ class gardientcontainer extends StatelessWidget {
               "hello World",
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 50,
+                fontSize: 30,
               ),
             ),
           ),
